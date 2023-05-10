@@ -1,5 +1,7 @@
 # 我的博客
 
+！！先草稿再正文
+
 ## 我的笔记系统
 https://www.edrawsoft.cn/viewer/public/s/594db806689783
 
@@ -14,12 +16,13 @@ https://www.edrawsoft.cn/viewer/public/s/594db806689783
 - csdn会限制的文章
 - 需要记忆和经常查阅
 - 技术专题
+- 软技术
 
 
 ## 正文
-## 技术专题
-### 算法
-### vue
-### 网站后端
+### 技术专题
+#### 算法
+#### vue
+#### 网站后端
 
 
