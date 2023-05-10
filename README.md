@@ -24,5 +24,6 @@ https://www.edrawsoft.cn/viewer/public/s/594db806689783
 #### 算法
 #### vue
 #### 网站后端
-
+#### 私有云盘
+- [seafile网盘搭建过程](https://github.com/sunny73/MyNote/issues/2)
 
