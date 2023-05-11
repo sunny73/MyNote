@@ -22,7 +22,15 @@ https://www.edrawsoft.cn/viewer/public/s/594db806689783
 ## 正文
 ### 技术专题
 #### 算法
-##### vector
+[1 算法框架](https://www.edrawsoft.cn/viewer/public/s/43f4f299728971)
+
+[2 vector总结](https://blog.csdn.net/qq_26769591/article/details/128475443?spm=1001.2014.3001.5501)
+
+[3 map总结](https://blog.csdn.net/qq_26769591/article/details/128475375?spm=1001.2014.3001.5501)
+
+4 set总结
+
+5 string总结
 #### vue
 #### 网站后端
 #### 私有云盘
