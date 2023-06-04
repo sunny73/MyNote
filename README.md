@@ -1,9 +1,6 @@
 # 我的博客
-写前思考：
-
-1 先草稿再正文
-
-2 多一点耐心
+## 我的学习方法总结
+https://github.com/sunny73/MyNote/issues/6
 
 ## 我的笔记策略
 https://www.edrawsoft.cn/viewer/public/s/594db806689783
