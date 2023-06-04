@@ -26,7 +26,7 @@ https://www.edrawsoft.cn/viewer/public/s/594db806689783
 
   4 set总结
 
-  5 string总结
+[  5 string总结](https://gitee.com/yingl37/vnote-book-yl/blob/master/VNoteBookYL/%E7%BC%96%E7%A8%8B%E5%9F%BA%E6%9C%AC%E5%8A%9F/C++/03.string.md)
   
 
  
