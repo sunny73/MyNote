@@ -18,6 +18,9 @@ https://www.edrawsoft.cn/viewer/public/s/594db806689783
     5 软技术
 
 ## 算法 [建议每天复习一遍]
+
+[专业级复习大纲](https://www.edrawsoft.cn/viewer/public/s/3c4dd320558019)
+
   [1 算法框架](https://www.edrawsoft.cn/viewer/public/s/43f4f299728971)
 
   [2 vector总结](https://blog.csdn.net/qq_26769591/article/details/128475443?spm=1001.2014.3001.5501)
